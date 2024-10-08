@@ -6,9 +6,6 @@
 ### <div align="center">I'm Cristhian Rodriguez Zavaleta, a full-time full-stack freelance developer 👨‍💻</div>  
 
 
-- 🔭 I’m currently working on [DT-Soluciones](https://dt-soluciones.com/)  
-  
-
 - 🌱 I’m currently learning **Django** and **Nuxt** 
   
 
